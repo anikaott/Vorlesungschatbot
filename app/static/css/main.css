@@ -188,3 +188,23 @@ footer {
     padding: 1.5rem;
     margin-top: 3rem;
 }
+
+.status-ok {
+    background-color: #d4edda; /* hellgrün */
+    color: #155724;            /* dunkelgrün */
+}
+ 
+.status-processing {
+    background-color: #fff3cd; /* hellgelb */
+    color: #856404;            /* dunkelgelb/braun */
+}
+ 
+.status-error {
+    background-color: #f8d7da; /* hellrot */
+    color: #721c24;            /* dunkelrot */
+}
+ 
+.status-unknown {
+    background-color: #e2e3e5; /* hellgrau */
+    color: #383d41;            /* dunkelgrau */
+}
