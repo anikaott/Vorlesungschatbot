@@ -164,6 +164,7 @@ main {
     flex-wrap: wrap;
 }
 
+
 .feature {
     flex: 1;
     min-width: 250px;
@@ -190,8 +191,8 @@ footer {
 }
 
 .status-ok {
-    background-color: #d4edda; /* hellgrün */
-    color: #155724;            /* dunkelgrün */
+    background-color: #d4edda;  /* hellgrün */
+    color: #155724;             /* dunkelgrün */
 }
  
 .status-processing {
